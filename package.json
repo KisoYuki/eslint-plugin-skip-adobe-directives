@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "eslint plugin which skips linting of adobe directives like '#target illustrator'",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KisoYuki/eslint-plugin-skip-adobe-directives"
+  },
   "scripts": {
     "test": "standard"
   },

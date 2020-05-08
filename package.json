@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-skip-adobe-directives",
+  "version": "1.0.1",
+  "description": "eslint plugin which skips linting of adobe directives like '#target illustrator'",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "eslint",
+    "adobe",
+    "directive",
+    "extendscript",
+    "jsx"
+  ],
+  "author": "kisoyuki",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.3"
+  }
+}
